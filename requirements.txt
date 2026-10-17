@@ -1,0 +1,11 @@
+faster-whisper==1.2.1
+sounddevice==0.4.6
+numpy>=2.1
+pyttsx3>=2.99
+requests==2.32.3
+google-api-python-client==2.126.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
+python-dateutil==2.9.0
+flask==3.0.3
+twilio==9.2.3
